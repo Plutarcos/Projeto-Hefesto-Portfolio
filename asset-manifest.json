@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Projeto-Hefesto-Portfolio/static/css/main.14e5d573.css",
+    "main.js": "/Projeto-Hefesto-Portfolio/static/js/main.32ada168.js",
+    "static/js/453.df6a575e.chunk.js": "/Projeto-Hefesto-Portfolio/static/js/453.df6a575e.chunk.js",
+    "static/media/VRPrancha.png": "/Projeto-Hefesto-Portfolio/static/media/VRPrancha.9f9c8500f0ea6b4ad0e0.png",
+    "static/media/Globo.jpg": "/Projeto-Hefesto-Portfolio/static/media/Globo.81aa354c9a5d44d29a5a.jpg",
+    "static/media/Plano.jpg": "/Projeto-Hefesto-Portfolio/static/media/Plano.859c2ff4b2ec4fb3480a.jpg",
+    "static/media/VR.jpg": "/Projeto-Hefesto-Portfolio/static/media/VR.04116fb121df2b58ddf4.jpg",
+    "static/media/NR35.jpg": "/Projeto-Hefesto-Portfolio/static/media/NR35.af771932280ca51a17e1.jpg",
+    "static/media/Parceria.jpg": "/Projeto-Hefesto-Portfolio/static/media/Parceria.19212b071d93cdef1d5e.jpg",
+    "index.html": "/Projeto-Hefesto-Portfolio/index.html",
+    "main.14e5d573.css.map": "/Projeto-Hefesto-Portfolio/static/css/main.14e5d573.css.map",
+    "main.32ada168.js.map": "/Projeto-Hefesto-Portfolio/static/js/main.32ada168.js.map",
+    "453.df6a575e.chunk.js.map": "/Projeto-Hefesto-Portfolio/static/js/453.df6a575e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e5d573.css",
+    "static/js/main.32ada168.js"
+  ]
+}
