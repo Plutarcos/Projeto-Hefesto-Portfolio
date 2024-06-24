@@ -1,12 +1,17 @@
 /* Section.css */
 .section {
+    background: linear-gradient(to bottom, rgb(53, 53, 53), #000000); /* Fundo com degradê de amarelo (#ECB921) para preto (#000000) de cima para baixo */
     background-color: #000000;
     color: #ffffff;
-    text-shadow: #ecb921 1px 0.5px 0px;
+    text-shadow: 
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000; /* Adiciona sombras para simular o efeito de contorno */
     padding: 20px;
     margin: 10px 0;
     width: 80%;
-    border: 2px solid #ecb921;
+    /* border: 2px solid #ecb921; */
     position: relative;
     overflow: hidden;
     transition: transform 0.3s;
@@ -15,6 +20,7 @@
   .section h2 {
     color: #ecb921;
   }
+ 
   
   .section:hover {
     transform: scale(1.05);

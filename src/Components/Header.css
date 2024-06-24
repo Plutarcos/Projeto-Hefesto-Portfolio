@@ -1,0 +1,26 @@
+.header {
+    background: linear-gradient(to bottom, #ECB921, #000000); /* Fundo com degradê de amarelo (#ECB921) para preto (#000000) de cima para baixo */
+    padding: 20px 0; /* Espaçamento interno superior e inferior */
+    text-align: center; /* Alinhamento centralizado do conteúdo */
+    
+  }
+  
+  .header-title {
+    font-size: 3rem; /* Tamanho do título */
+    color: #fff; /* Cor do texto (branco) */
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Efeito de brilho no texto */
+    animation: pulse 2s infinite; /* Aplicando animação 'pulse' por 2 segundos infinitamente */
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
