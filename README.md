@@ -1,20 +1,33 @@
+<p align="center">
+  <img src="public/Mitologo.png" alt="Logo da Mitolog">
+</p>
 
-### Explicações do README.md:
+<h1 align="center">Projeto Hefesto</h1>
 
-- **Título e Imagem:** O título "Projeto Hefesto" é seguido pela imagem do logo da Mitologo, localizada em `public/Mitologo.png`.
+<p align="center">
+  <strong>Transformando treinamentos em Segurança do Trabalho com Realidade Virtual</strong>
+</p>
+
+## Descrição do Projeto
+
+O Projeto Hefesto é uma iniciativa da Mitolog para revolucionar os treinamentos em Segurança do Trabalho utilizando tecnologia avançada de Realidade Virtual (VR). Nosso objetivo é proporcionar simulações imersivas e realísticas para capacitar colaboradores em situações de risco como trabalho em altura, proteção contra incêndios e outras normas regulamentadoras.
+
+## Funcionalidades
+
+- **Simulações Realísticas:** Ambientes virtuais 3D que replicam condições de trabalho perigosas de forma precisa.
   
-- **Descrição do Projeto:** Breve explicação sobre o objetivo do projeto, destacando a aplicação da Realidade Virtual em treinamentos de Segurança do Trabalho.
+- **Interface Intuitiva:** Software unificado com interface fácil de navegar para acessar diferentes normas regulamentadoras.
+  
+- **Personalização de Conteúdo:** Possibilidade de selecionar imagens específicas para cada simulação.
 
-- **Funcionalidades:** Lista das principais funcionalidades e benefícios do projeto.
+## Tecnologias Utilizadas
 
-- **Tecnologias Utilizadas:** Lista das tecnologias principais usadas no desenvolvimento do projeto.
+- React.js: Biblioteca JavaScript para construção da interface de usuário.
+- CSS: Estilização dos componentes e elementos da aplicação.
+- Realidade Virtual (VR): Tecnologia para criação de ambientes virtuais imersivos.
 
-- **Instalação e Uso:** Instruções para clonar o repositório, instalar dependências e iniciar a aplicação localmente.
+## Instalação e Uso
 
-- **Contribuição:** Informações sobre como contribuir com o projeto.
-
-- **Autor:** Link para o perfil do autor do projeto no GitHub.
-
-- **Nota Final:** Breve mensagem destacando o propósito e os benefícios esperados do projeto.
-
-Certifique-se de ajustar as URLs, caminhos de arquivos e conteúdo conforme a estrutura do seu projeto. Isso ajudará os usuários e colaboradores a entenderem claramente o que é o projeto "Projeto Hefesto" e como podem contribuir ou utilizar.
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-hefesto.git
